@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanket-Shetty
-- 🌐 Analytics Manager with 6+ years of experience in data analytics, machine learning, and business intelligence.
+- 🌐 Data Science & Analytics Manager with 6+ years of experience in data analytics, machine learning, and business intelligence.
 - 💡 Passionate about turning data into actionable insights.
 - 🔭 Check out my projects on predictive analytics, data visualization, and more below!
 - 👀 I’m interested in leveraging data analytics and machine learning to drive business insights and strategic decision-making. Passionate about AI/ML, data visualization, and big data technologies.
