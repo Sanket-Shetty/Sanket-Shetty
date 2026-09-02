@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sanket-Shetty
-- 🌐 Data Science & Analytics Manager with 7+ years of experience in data analytics, machine learning, blockchain, and business intelligence.
+- 🌐 Data Science & Analytics Manager with 8+ years of experience in data analytics, machine learning, blockchain, and business intelligence.
 - 💡 Passionate about turning data into actionable insights.
 - 👀 I’m interested in leveraging data analytics and machine learning to drive business insights and strategic decision-making. Passionate about AI/ML, Web3, data visualization, and big data technologies.
-- 🌱 I’m currently learning advanced deep learning techniques and exploring tools like Hugging Face and Python Lib for large-scale data processing. Continuously enhancing my skills in AI
 - 💞️ I’m looking to collaborate on open-source projects related to data science, machine learning models, and developing analytics tools that make complex data accessible to everyone.
 - 📫 How to reach me: Connect with me on LinkedIn ([Sanket Shetty](https://www.linkedin.com/in/shetty-sanket/)) or email me at sankets1289@gmail.com
 - ⚡ Fun fact: When I'm not analyzing data, you might find me hiking mountain trails!
